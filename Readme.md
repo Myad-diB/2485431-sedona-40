@@ -2,7 +2,7 @@
 
 * Студент: [Сергей Косарев](https://up.htmlacademy.ru/htmlcss/40/user/2485431).
 * Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
-
+* Сайт: [Мой проект](https://myad-dib.github.io/2485431-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
